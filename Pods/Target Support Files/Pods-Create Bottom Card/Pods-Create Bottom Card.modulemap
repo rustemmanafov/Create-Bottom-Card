@@ -1,0 +1,6 @@
+framework module Pods_Create_Bottom_Card {
+  umbrella header "Pods-Create Bottom Card-umbrella.h"
+
+  export *
+  module * { export * }
+}
