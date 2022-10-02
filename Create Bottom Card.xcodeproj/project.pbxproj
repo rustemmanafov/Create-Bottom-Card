@@ -14,6 +14,7 @@
 		460A381628AAAB7800206AE0 /* Create_Bottom_Card.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 460A381428AAAB7800206AE0 /* Create_Bottom_Card.xcdatamodeld */; };
 		460A381828AAAB7A00206AE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 460A381728AAAB7A00206AE0 /* Assets.xcassets */; };
 		460A381B28AAAB7A00206AE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 460A381928AAAB7A00206AE0 /* LaunchScreen.storyboard */; };
+		460E5BFB28E0F713003EC60B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460E5BFA28E0F713003EC60B /* SecondViewController.swift */; };
 		E996B84BA042C0E7EA4B706A /* Pods_Create_Bottom_Card.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C634A37A826322DAF68AF0C5 /* Pods_Create_Bottom_Card.framework */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		460A381728AAAB7A00206AE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		460A381A28AAAB7A00206AE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		460A381C28AAAB7A00206AE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		460E5BFA28E0F713003EC60B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		C634A37A826322DAF68AF0C5 /* Pods_Create_Bottom_Card.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Create_Bottom_Card.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -68,6 +70,7 @@
 				460A380B28AAAB7800206AE0 /* AppDelegate.swift */,
 				460A380D28AAAB7800206AE0 /* SceneDelegate.swift */,
 				460A380F28AAAB7800206AE0 /* ViewController.swift */,
+				460E5BFA28E0F713003EC60B /* SecondViewController.swift */,
 				460A381128AAAB7800206AE0 /* Main.storyboard */,
 				460A381728AAAB7A00206AE0 /* Assets.xcassets */,
 				460A381928AAAB7A00206AE0 /* LaunchScreen.storyboard */,
@@ -83,7 +86,6 @@
 				0FAC18D5A021195188D19E96 /* Pods-Create Bottom Card.debug.xcconfig */,
 				3E19DDF50EBF7424F59E7270 /* Pods-Create Bottom Card.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -213,6 +215,7 @@
 				460A381628AAAB7800206AE0 /* Create_Bottom_Card.xcdatamodeld in Sources */,
 				460A381028AAAB7800206AE0 /* ViewController.swift in Sources */,
 				460A380C28AAAB7800206AE0 /* AppDelegate.swift in Sources */,
+				460E5BFB28E0F713003EC60B /* SecondViewController.swift in Sources */,
 				460A380E28AAAB7800206AE0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

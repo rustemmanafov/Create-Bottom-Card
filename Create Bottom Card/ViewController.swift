@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         item.alternativeButtonTitle = "Maybe Later"
         item.descriptionText = "Would you like to stay in the loop and get notifications?"
         
-        
         item.actionHandler = { _ in
             ViewController.didtapBoardContinue()
         }
